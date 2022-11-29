@@ -1,0 +1,25 @@
+﻿<Application x:Class="WpfApp1.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WpfApp1"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        
+        <Style x:Key="dtGrid" TargetType="DataGrid">
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+        </Style>
+        <ControlTemplate x:Key="tmp" TargetType="Button">
+            <Grid>
+                <Border  Background="Gold" CornerRadius="30"/>
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </Grid>
+        </ControlTemplate>
+        <Style x:Key="btn" TargetType="Button">
+            <Setter Property="Background" Value="Gold"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Foreground" Value="Green"/>
+            <Setter Property="Template" Value="{StaticResource tmp}"/>
+        </Style>
+    </Application.Resources>
+</Application>
