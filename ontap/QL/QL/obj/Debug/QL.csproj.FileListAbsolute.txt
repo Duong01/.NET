@@ -1,0 +1,8 @@
+E:\workspace\LAP_TRINH.NET\ontap\QL\QL\bin\Debug\QL.exe.config
+E:\workspace\LAP_TRINH.NET\ontap\QL\QL\bin\Debug\QL.exe
+E:\workspace\LAP_TRINH.NET\ontap\QL\QL\bin\Debug\QL.pdb
+E:\workspace\LAP_TRINH.NET\ontap\QL\QL\obj\Debug\QL.csproj.AssemblyReference.cache
+E:\workspace\LAP_TRINH.NET\ontap\QL\QL\obj\Debug\QL.csproj.SuggestedBindingRedirects.cache
+E:\workspace\LAP_TRINH.NET\ontap\QL\QL\obj\Debug\QL.csproj.CoreCompileInputs.cache
+E:\workspace\LAP_TRINH.NET\ontap\QL\QL\obj\Debug\QL.exe
+E:\workspace\LAP_TRINH.NET\ontap\QL\QL\obj\Debug\QL.pdb

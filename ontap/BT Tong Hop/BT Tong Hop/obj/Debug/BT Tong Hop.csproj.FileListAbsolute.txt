@@ -1,0 +1,8 @@
+E:\workspace\LAP_TRINH.NET\ontap\BT Tong Hop\BT Tong Hop\bin\Debug\BT Tong Hop.exe.config
+E:\workspace\LAP_TRINH.NET\ontap\BT Tong Hop\BT Tong Hop\bin\Debug\BT Tong Hop.exe
+E:\workspace\LAP_TRINH.NET\ontap\BT Tong Hop\BT Tong Hop\bin\Debug\BT Tong Hop.pdb
+E:\workspace\LAP_TRINH.NET\ontap\BT Tong Hop\BT Tong Hop\obj\Debug\BT Tong Hop.csproj.AssemblyReference.cache
+E:\workspace\LAP_TRINH.NET\ontap\BT Tong Hop\BT Tong Hop\obj\Debug\BT Tong Hop.csproj.SuggestedBindingRedirects.cache
+E:\workspace\LAP_TRINH.NET\ontap\BT Tong Hop\BT Tong Hop\obj\Debug\BT Tong Hop.csproj.CoreCompileInputs.cache
+E:\workspace\LAP_TRINH.NET\ontap\BT Tong Hop\BT Tong Hop\obj\Debug\BT Tong Hop.exe
+E:\workspace\LAP_TRINH.NET\ontap\BT Tong Hop\BT Tong Hop\obj\Debug\BT Tong Hop.pdb

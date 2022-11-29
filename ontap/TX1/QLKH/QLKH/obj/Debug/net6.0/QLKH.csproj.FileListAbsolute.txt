@@ -1,0 +1,5 @@
+E:\workspace\LAP_TRINH.NET\ontap\TX1\QLKH\QLKH\obj\Debug\net6.0\QLKH.csproj.AssemblyReference.cache
+E:\workspace\LAP_TRINH.NET\ontap\TX1\QLKH\QLKH\obj\Debug\net6.0\QLKH.GeneratedMSBuildEditorConfig.editorconfig
+E:\workspace\LAP_TRINH.NET\ontap\TX1\QLKH\QLKH\obj\Debug\net6.0\QLKH.AssemblyInfoInputs.cache
+E:\workspace\LAP_TRINH.NET\ontap\TX1\QLKH\QLKH\obj\Debug\net6.0\QLKH.AssemblyInfo.cs
+E:\workspace\LAP_TRINH.NET\ontap\TX1\QLKH\QLKH\obj\Debug\net6.0\QLKH.csproj.CoreCompileInputs.cache
