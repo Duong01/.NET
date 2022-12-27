@@ -1,0 +1,19 @@
+﻿<Application x:Class="WpfApp7.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WpfApp7"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ControlTemplate x:Key="tmp" TargetType="Button">
+            <Grid>
+                <Border Background="Blue" CornerRadius="20"/>
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </Grid>
+        </ControlTemplate>
+        <Style x:Key="btn" TargetType="Button">
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Background" Value="Blue"/>
+            <Setter Property="Template" Value="{StaticResource tmp}"/>
+        </Style>
+    </Application.Resources>
+</Application>
